@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mlflow
-          image: quay.io/gthomas59800/kto/mlflow-2023-2024:latest
+          image: quay.io/gthomas59800/kto/mlflow:latest
           imagePullPolicy: Always
           args:
             - --host=0.0.0.0
