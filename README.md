@@ -54,7 +54,7 @@ Le terminal vous demandera le nom de votre compte openshift, saisissez-le sans f
 
 Tapez sur Entrée.
 Le terminal vous demandera ensuite le nom de votre cluster, saisissez-le également sans faire d'erreur **ET DE NOUVEAU, SANS ESPACE**.
-Vous pouvez faire un copié collé. Prenez bien la suite de lettres et chiffres entre le tiret et le point (...sandbox-**m2.ll9k.p1**.openshiftapps.com/). 
+Vous pouvez faire un copié collé. Prenez bien la suite de lettres et chiffres entre `apps.` et `.openshiftapps` (...apps.**m2.ll9k.p1**.openshiftapps.com/). 
 
 ![enter_cluster.png](img/enter_cluster.png)
 
